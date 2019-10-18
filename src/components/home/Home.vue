@@ -12,7 +12,7 @@
           <h1>电商后台管理系统</h1>
         </el-col>
         <el-col :span="8" class="home-header-logout">
-          <span>欢迎上海前端25期星曜会员</span>
+          <span>欢迎尊贵的会员</span>
           <a href="javascript:;" @click.prevent="logout">退出</a>
         </el-col>
       </el-row>
